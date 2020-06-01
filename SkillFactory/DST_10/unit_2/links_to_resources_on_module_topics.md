@@ -3,15 +3,15 @@
 ## skillfactory_rds  
 
 ## Оглавление  
-[1. Возможности библиотеки Numpy для работы с данными](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Возможности-библиотеки-Numpy-для-работы-с-данными)  
-[2. Методы визуализации данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Методы-визуализации-данных)  
-[3. Работа с файлами разных форматов](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#333)  
-[4. Описательные статистики и графики на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Описательные-статистики-и-графики-на-Python)  
-[5. Основные понятия математической статистики](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Основные-понятия-математической-статистики)  
-[6. Доверительные интервалы на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Доверительные-интервалы-на-Python)  
-[7. Тестирование гипотез о разности параметров](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Тестирование-гипотез-о-разности-параметров)  
-[8. Работа с датами](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Работа-с-датами)  
-[9. Разведывательный анализ данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных)  
+[1. Возможности библиотеки Numpy для работы с данными](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Возможности-библиотеки-Numpy-для-работы-с-данными)  
+[2. Методы визуализации данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Методы-визуализации-данных)  
+[3. Работа с файлами разных форматов](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#333)  
+[4. Описательные статистики и графики на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Описательные-статистики-и-графики-на-Python)  
+[5. Основные понятия математической статистики](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Основные-понятия-математической-статистики)  
+[6. Доверительные интервалы на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Доверительные-интервалы-на-Python)  
+[7. Тестирование гипотез о разности параметров](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Тестирование-гипотез-о-разности-параметров)  
+[8. Работа с датами](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Работа-с-датами)  
+[9. Разведывательный анализ данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Разведывательный-анализ-данных)  
 
 
 ### Возможности библиотеки Numpy для работы с данными  
@@ -28,7 +28,7 @@ PYTHON-B6
 - [Numpy. Расчет статистик по данным в массиве](https://devpractice.ru/numpy-calc-stats/)  
 - [numpy.org](https://numpy.org/)  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 ### Методы визуализации данных  
 PYTHON-B7
@@ -46,7 +46,7 @@ PYTHON-B7
 - [Библа для визуализации пропусков missingno](https://github.com/ResidentMario/missingno)
 - [Библа для визуализации - D-Tale](https://towardsdatascience.com/introduction-to-d-tale-5eddd81abe3f)  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Работа с файлами разных форматов  
@@ -55,12 +55,12 @@ PYTHON-B8
 - [pandas.read_excel официалка (англ.)](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html)  
 - [xml.etree.ElementTree официалка (англ.)](https://docs.python.org/3.7/library/xml.etree.elementtree.html)  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Описательные статистики и графики на Python  
 STAT&BASIC-1  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Основные понятия математической статистики на Python  
@@ -68,31 +68,31 @@ STAT&BASIC-2
 - [STEPIK. Основы статистики](https://stepik.org/course/76/promo)
 - [простро про вероятности. зависимые и неависимые переменные](https://habr.com/ru/post/351400/)  
 
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Доверительные интервалы на Python  
 STAT&BASIC-3  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Тестирование гипотез  
 STAT&BASIC-4  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
 ### Тестирование гипотез о разности параметров  
 STAT&BASIC-5  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 ### Работа с датами  
 *PYTHON-C1.  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)
 
 ### Разведывательный анализ данных  
 RDS2  
 - [pandas-profiling ускорение EDA](https://habr.com/ru/company/ruvds/blog/451478/)  
 - [pandas-profiling официалка (англ.)](https://github.com/pandas-profiling/pandas-profiling)  
 - []()  
-:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)
 
