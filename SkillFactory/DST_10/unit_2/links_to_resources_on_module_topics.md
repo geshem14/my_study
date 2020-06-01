@@ -6,9 +6,9 @@
 [1. Возможности библиотеки Numpy для работы с данными](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Возможности-библиотеки-Numpy-для-работы-с-данными)  
 [2. Методы визуализации данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Методы-визуализации-данных)  
 [3. Работа с файлами разных форматов](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#333)  
-[4. Описательные статистики и графики на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Описательные-статистики-и-графики-на-Python)  
+[4. Описательные статистики и графики](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Описательные-статистики-и-графики)  
 [5. Основные понятия математической статистики](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Основные-понятия-математической-статистики)  
-[6. Доверительные интервалы на Python](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Доверительные-интервалы-на-Python)  
+[6. Доверительные интервалы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Доверительные-интервалы)  
 [7. Тестирование гипотез о разности параметров](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Тестирование-гипотез-о-разности-параметров)  
 [8. Работа с датами](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Работа-с-датами)  
 [9. Разведывательный анализ данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Разведывательный-анализ-данных)  
@@ -58,12 +58,12 @@ PYTHON-B8
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
-### Описательные статистики и графики на Python  
+### Описательные статистики и графики  
 STAT&BASIC-1  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
-### Основные понятия математической статистики на Python  
+### Основные понятия математической статистики  
 STAT&BASIC-2  
 - [STEPIK. Основы статистики](https://stepik.org/course/76/promo)
 - [простро про вероятности. зависимые и неависимые переменные](https://habr.com/ru/post/351400/)  
@@ -71,7 +71,7 @@ STAT&BASIC-2
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
 
-### Доверительные интервалы на Python  
+### Доверительные интервалы  
 STAT&BASIC-3  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Оглавление)  
 
