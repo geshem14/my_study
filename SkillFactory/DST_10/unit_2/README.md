@@ -8,7 +8,7 @@
 [3. Разведывательный анализ данных — что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных-—-что-это?)  
 [4. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
 [5. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
-[6. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы получите-в-результате работы)  
+[6. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
 
 ### Описание юнита  
 процесс разработки DS-проекта выглядит так  
