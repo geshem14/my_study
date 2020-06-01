@@ -7,12 +7,12 @@
 [2. Постановка задачи на Юнит](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Постановка-задачи-на-Юнит)  
 [3. Разведывательный анализ данных — что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных-—-что-это?)  
 [4. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
-[5. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
-[6. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
+[5. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
+[6. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
 
 ### Описание юнита  
 процесс разработки DS-проекта выглядит так  
-<img src="https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/pictures_and_schemes/ds-scheme.png" alt="drawing" width="200"/>
+<img src="https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/pictures_and_schemes/ds-scheme.png" alt="drawing" width="400"/>
 #### Что наш ждёт в этом юните?  
 В этом юните мы будем проводить разведывательный анализ данных. Для примера мы будем анализировать результаты оценки шоколадных батончиков фокус-группой.  
 После чего мы, как всегда, предложим вам закрепить навыки в самостоятельном проекте.  
