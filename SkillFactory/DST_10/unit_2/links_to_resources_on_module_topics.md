@@ -1,6 +1,6 @@
 # Ссылки на хорошие ресурсы по темам Юнита
 ## Юнит 2. Разведывательный анализ данных
-## skillfactory_rds  
+skillfactory_rds  
 
 ## Оглавление  
 [1. Возможности библиотеки Numpy для работы с данными](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/links_to_resources_on_module_topics.md#Возможности-библиотеки-Numpy-для-работы-с-данными)  
