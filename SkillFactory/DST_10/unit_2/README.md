@@ -5,14 +5,14 @@
 ## Оглавление  
 [1. Описание юнита](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Описание-юнита)  
 [2. Постановка задачи на Юнит](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Постановка-задачи-на-Юнит)  
-[3. Разведывательный анализ данных - что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных--что-это?)  
+[3. Разведывательный анализ данных - что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных---что-это)  
 [4. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
-[5. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
-[6. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
+[5. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем)  
+[6. Какие инструменты будут нужны?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Какие-инструменты-будут-нужны)  
 
 ### Описание юнита  
 процесс разработки DS-проекта выглядит так  
-<img src="https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/pictures_and_schemes/ds-scheme.png" alt="drawing" width="600"/>
+<img src="https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/pictures_and_schemes/ds-scheme.png" alt="drawing" width="800"/>
 #### Что наш ждёт в этом юните?  
 В этом юните мы будем проводить разведывательный анализ данных. Для примера мы будем анализировать результаты оценки шоколадных батончиков фокус-группой.  
 После чего мы, как всегда, предложим вам закрепить навыки в самостоятельном проекте.  
