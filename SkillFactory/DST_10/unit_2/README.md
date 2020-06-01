@@ -5,9 +5,9 @@
 ## Оглавление  
 [1. Описание юнита](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Описание-юнита)  
 [2. Постановка задачи на Юнит](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Постановка-задачи-на-Юнит)  
-[3. Разведывательный анализ данных — что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных--что-это?)  
+[3. Разведывательный анализ данных - что это?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Разведывательный-анализ-данных--что-это?)  
 [4. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
-[5. Что вы получите в результате работы](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Что-вы-получите-в-результате-работы)  
+[5. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
 [6. Каких результатов мы достигнем?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Каких-результатов-мы-достигнем?)  
 
 ### Описание юнита  
@@ -25,7 +25,7 @@
 В этом юните мы сфокусируемся на этапе выбора правильных параметров для будущей модели.  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_2/README.md#Оглавление)
 
-### Разведывательный анализ данных — что это?  
+### Разведывательный анализ данных - что это?  
 EDA — важный подготовительный этап любого DS-проекта. В ходе EDA мы можем ознакомиться с данными, подготовить их для дальнейшей отработки и понять, какие данные нам помогут в анализе и построении модели, а какие – нет.  
 Соответственно, цели проведения EDA следующие:  
 - Сформулировать предположения и гипотезы для дальнейшего построения модели;  
