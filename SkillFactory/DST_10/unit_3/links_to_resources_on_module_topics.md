@@ -40,9 +40,9 @@
 
 ### Линейная алгебра. Часть 1
  MATH&STAT-1.  
-- []()
-- []()
-- []()
+- [NumPy в Python. Часть 1](https://habr.com/ru/post/352678/)
+- [NumPy в Python. Часть 2](https://habr.com/post/353416/)
+- [NumPy в Python. Часть 3](https://habr.com/post/413381/)
 - []()
 - []()  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
