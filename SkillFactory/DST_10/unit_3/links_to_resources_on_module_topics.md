@@ -48,13 +48,12 @@
 - [определитель матрицы](http://mathprofi.ru/kak_vychislit_opredelitel.html)  
 - [Определитель матрицы онлайн](https://math.semestr.ru/kramer/opred.php)  
 - [Операции над матрицами и их свойства](http://ru.solverbook.com/spravochnik/matricy/operacii-nad-matricami-ix-svojstva/)  
-- []()  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
 
 ### Линейная алгебра. Часть 2
  *MATH&STAT-2.  
--[]()
--[]()
+-[Однородные системы линейных алгебраических уравнений](http://www.mathprofi.ru/odnorodnye_sistemy_lineinyh_uravnenij.html)
+-[Запись общего решения однородных и неоднородных СЛАУ](http://www.cleverstudents.ru/systems/solving_systems_of_linear_equations.html#fundamental_system_of_solutions)
 -[]()
 -[]()
 -[]()  
