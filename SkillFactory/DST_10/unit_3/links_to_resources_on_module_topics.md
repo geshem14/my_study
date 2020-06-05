@@ -43,7 +43,11 @@
 - [NumPy в Python. Часть 1](https://habr.com/ru/post/352678/)
 - [NumPy в Python. Часть 2](https://habr.com/post/353416/)
 - [NumPy в Python. Часть 3](https://habr.com/post/413381/)
-- []()
+- [Матрица и определитель Грама](http://mathhelpplanet.com/static.php?p=matritsa-i-opredelitel-grama)
+- [различия между массивами numpy и матрицами](https://stackoverflow.com/questions/4151128/what-are-the-differences-between-numpy-arrays-and-matrices-which-one-should-i-u)  
+- [определитель матрицы](http://mathprofi.ru/kak_vychislit_opredelitel.html)  
+- [Определитель матрицы онлайн](https://math.semestr.ru/kramer/opred.php)  
+- [Операции над матрицами и их свойства](http://ru.solverbook.com/spravochnik/matricy/operacii-nad-matricami-ix-svojstva/)  
 - []()  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
 
