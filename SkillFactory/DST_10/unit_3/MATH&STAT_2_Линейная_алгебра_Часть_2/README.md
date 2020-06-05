@@ -3,7 +3,7 @@
 ### SkillFactory
 ---
 ### Оглавление  
-1. [О чем этот модуль?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/MATH&STAT_2_Линейная_алгебра_Часть_2/README.md#О-чем-этот-модуль?)  
+1. [О чем этот модуль?](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/MATH&STAT_2_Линейная_алгебра_Часть_2/README.md#О-чем-этот-модуль)  
 
 ### О чем этот модуль?
 В этом модуле мы перейдём к изучению реальных алгоритмов анализа данных и рассмотрим с разных сторон:  
