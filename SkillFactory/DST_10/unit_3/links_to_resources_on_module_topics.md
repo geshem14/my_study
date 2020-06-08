@@ -7,7 +7,7 @@
 [2. Теория машинного обучения](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Теория-машинного-обучения)  
 [3. Предобработка данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Предобработка-данных)  
 [4. Линейная алгебра. Часть 1](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Линейная-алгебра.-Часть-1)  
-[3. Линейная алгебра. Часть 2](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Линейная-алгебра.-Часть-2)  
+[5. Линейная алгебра. Часть 2](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Линейная-алгебра.-Часть-2)  
 
 ### Feature Engineering
  PYTHON-B5.  
@@ -35,7 +35,7 @@
 - [примеры боксплотов из раздела визуализация](http://python-graph-gallery.com/boxplot/)
 - []()
 - []()
-- []()  
+- [курс по DS Анастасии Максимовской](https://github.com/FUlyankin/Intro_to_DS)  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
 
 ### Линейная алгебра. Часть 1
@@ -52,9 +52,19 @@
 
 ### Линейная алгебра. Часть 2
  *MATH&STAT-2.  
--[Однородные системы линейных алгебраических уравнений](http://www.mathprofi.ru/odnorodnye_sistemy_lineinyh_uravnenij.html)
--[Запись общего решения однородных и неоднородных СЛАУ](http://www.cleverstudents.ru/systems/solving_systems_of_linear_equations.html#fundamental_system_of_solutions)
--[]()
--[]()
--[]()  
+- [Однородные системы линейных алгебраических уравнений](http://www.mathprofi.ru/odnorodnye_sistemy_lineinyh_uravnenij.html)
+- [Запись общего решения однородных и неоднородных СЛАУ](http://www.cleverstudents.ru/systems/solving_systems_of_linear_equations.html#fundamental_system_of_solutions)
+- [Центрирование и маштабирование признаков](http://scask.ru/n_book_pra1.php?id=70)
+- [Шпаргалка по pandas](http://smysl.io/blog/pandas/)
+- Цикл уроков по Pandas в блоге devpractice.ru
+  - [Урок 1](https://devpractice.ru/pandas-start-part1/)
+  - [Урок 2](https://devpractice.ru/pandas-series-and-dataframe-part2/)
+  - [Урок 3](https://devpractice.ru/pandas-indexing-part3/)
+  - [Урок 4](https://devpractice.ru/pandas-work-with-nan-part4/)
+- [Серия уроков по обработке данных](https://pythonworld.ru/obrabotka-dannyx)
+- [Введение в Pandas](https://khashtamov.com/ru/pandas-introduction/)
+- [Введение в анализ данных с помощью Pandas на Habr](https://habr.com/ru/post/196980/)  
+- [Целый дополнительный курс по Pandas в блоге сообщества OpenDataScience на Habr](https://habr.com/ru/company/ods/blog/322626/)  
+- [Еще материал по Анализу данных с Pandas](https://shwanoff.ru/pandas/)  
+- [огромная подборка ссылок на англоязычные материалы про Pandas](https://www.notion.so/Pandas-Tutorials-Articles-Videos-a19c806a31bb4b288a1909f0803fad5f)  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
