@@ -8,6 +8,7 @@
 [3. Предобработка данных](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Предобработка-данных)  
 [4. Линейная алгебра. Часть 1](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Линейная-алгебра.-Часть-1)  
 [5. Линейная алгебра. Часть 2](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Линейная-алгебра.-Часть-2)  
+[6. Реальный DS 3](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Реальный-DS-3)  
 
 ### Feature Engineering
  PYTHON-B5.  
@@ -77,4 +78,12 @@
 - [калькулятор для линейной алгебры. Это очень полезный инструмент, который не только считает матрицы по заданным условиям, но и даёт пошаговое решение с объяснением. Тем не менее, мы настоятельно рекомендуем считать матрицы самостоятельно и только проверять себя по этому калькулятору!](https://matrixcalc.org/)  
 - [Essence of linear algebra - раздел, посвященный линейной алгебре, на канале 3blue1brown. Канал англоязычный, но есть субтитры. Хорошая возможность познакомиться с англоязычной терминологией](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  
 - [«3blue1brown Русский перевод» — часть видео с канала 3blue1brown переведена на русский язык](https://www.youtube.com/channel/UC6hAYNOWMmuqOBvFOuAFKwA)  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
+
+
+### Реальный DS 3  
+- [РЕЙТИНГИ СТРАН И РЕГИОНОВ](https://gtmarket.ru/research/countries-ranking)  
+- [Европейская статистика (англ.)](https://ec.europa.eu/eurostat/web/cities/data/database)  
+- []()  
+- []()  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Оглавление)
