@@ -17,7 +17,11 @@ MATH&STAT-3
 - [Метод интервалов](http://mathprofi.ru/nuli_funkcii_intervaly_znakopostoyanstva_metod_intervalov.html)  
 - [подробнее о вычислении градиента (англ.)](https://ch.mathworks.com/help/matlab/ref/gradient.html)  
 - [Градиентный спуск: все, что нужно знать»](https://neurohive.io/ru/osnovy-data-science/gradient-descent/)  
-- [SciPy, оптимизация с условиями](https://habr.com/ru/company/ods/blog/448054/)
+- [scipy.optimize.minimize](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.minimize.html)  
+- [ свойства выпуклых функций](http://scask.ru/g_book_f_math1.php?id=141)  
+- [SciPy, оптимизация с условиями](https://habr.com/ru/company/ods/blog/448054/)  
+- [задачник для дополнительной практики;](https://www.coursehero.com/file/20159815/calculus/)  
+- [задачник по математическому анализу (на английском языке), в котором стоит обратить внимание на разделы 1, 5.2, 5.5, 6.3, 6.4, 6.5.](https://pokrovka11.files.wordpress.com/2012/10/calculus.pdf)  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_4/links_to_resources_on_module_topics.md#Оглавление)  
 
 
