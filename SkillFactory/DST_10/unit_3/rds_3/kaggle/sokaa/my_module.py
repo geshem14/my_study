@@ -212,15 +212,23 @@ def test_model(d_df,d_list_remove_columns, d_RS):
     return
 
 
-
-
-
 def StandardScaler_FillNa_0(d_df):
     return
 
 
+def simple_plot_barh_procent(d_name_title, d_name_column, d_df):
+    """
+    
+    """
+    plt.style.use('seaborn-paper')
+    plt.rcParams['figure.figsize'] = (12, 3)
+
+    temp_df = d_df[d_name_column].value_counts(normalize=True)
+    (temp_df * 100).plot.barh().set_title(d_name_title)
 
 
+    return
+   
 if __name__ == "__main__":
     df_train = pd.read_csv('../sokaa/main_task.csv')
     df_test = pd.read_csv('../sokaa/kaggle_task.csv')
