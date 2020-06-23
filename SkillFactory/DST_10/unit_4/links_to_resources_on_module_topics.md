@@ -27,6 +27,12 @@ MATH&STAT-3
 
 ### 2. Теория вероятностей. Часть I  
 MATH&STAT-5  
+- [книгу «Гарри Поттер и методы рационального мышления»](https://hpmor.ru/)  
+- [Парадокс Монти-Холла](https://habr.com/ru/post/101695/)  
+- [Главу 20 из книги «Гарри Поттер и методы рационального мышления»](https://hpmor.ru/book/1/20/)  
+- [разбор задачи про точность медицинских тестов](https://elementy.ru/bookclub/chapters/434328/Putevoditel_dlya_vlyublyonnykh_v_matematiku_Glava_iz_knigi)  
+- [немного о Байесовском подходе к вероятности](https://habr.com/ru/post/411659/)  
+- []()  
 - []()  
 - []()  
 - []()  
