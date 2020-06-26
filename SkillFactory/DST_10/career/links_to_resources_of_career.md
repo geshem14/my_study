@@ -8,7 +8,7 @@
 
 ### Youtube
 - [Почему вы никогда не найдете Дата Саентиста – Валерий Бабушкин](https://www.youtube.com/watch?v=Cs3ae65tmKA&feature=youtu.be)
-- []()  
+- [How to Make A Data Science Portfolio Website with Github](https://youtu.be/1aXk2RViq3c?t=660)  
 - []()  
 - []()  
 - []()  
