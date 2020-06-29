@@ -32,10 +32,13 @@ MATH&STAT-5
 - [Главу 20 из книги «Гарри Поттер и методы рационального мышления»](https://hpmor.ru/book/1/20/)  
 - [разбор задачи про точность медицинских тестов](https://elementy.ru/bookclub/chapters/434328/Putevoditel_dlya_vlyublyonnykh_v_matematiku_Glava_iz_knigi)  
 - [немного о Байесовском подходе к вероятности](https://habr.com/ru/post/411659/)  
-- []()  
-- []()  
-- []()  
-- []()  
+- [статья «Пуассоновский случайный процесс: просмотры и клики»](https://habr.com/ru/company/nerepetitor/blog/253755/)  
+- [книга Леонарда Млодинова «(Не)совершенная случайность» — истоки теории вероятностей и статистики и объяснение многих ключевых понятий и теорем на пальцах](https://bookshake.net/b/ne-sovershennaya-sluchaynost-kak-sluchay-upravlyaet-nashey-leonard-mlodinov)  
+- [статью про теорию вероятности в анализе данных](https://habr.com/ru/post/351400/)  
+- [статью про игральные кубики и безопасные пароли](https://habr.com/ru/company/cloud4y/blog/347952/)  
+- [статью про случайные и псевдослучайные последовательности (теорвер и криптография)](https://habr.com/ru/company/securitycode/blog/273629/)  
+- [статью о математических основах законов подлости](https://habr.com/ru/post/431706/)  
+- [«Комбинаторика и ракетные двигатели»](https://habr.com/ru/post/377421/)  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_4/links_to_resources_on_module_topics.md#Оглавление)  
 
 
