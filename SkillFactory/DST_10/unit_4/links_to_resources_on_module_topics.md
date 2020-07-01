@@ -44,6 +44,12 @@ MATH&STAT-5
 
 ### 3. Статистика  
 MATH&STAT-6  
+- [«Анализируем странные корреляции»](https://habr.com/ru/post/236503/)  
+- [«Ложные корреляции: как Николас Кейдж влияет на смерть в бассейне»](https://www.popmech.ru/science/237232-lozhnye-korrelyatsii-kak-nikolas-keydzh-vliyaet-na-smert-v-basseyne/#part0)  
+- [Python Groupby Tutorial](https://www.kaggle.com/crawford/python-groupby-tutorial)  
+- [визуализацией статистических данных при помощи библиотеки seaborn](https://nagornyy.me/courses/data-science/intro-to-seaborn/)  
+- [«Как легко понять логистическую регрессию»](https://habr.com/ru/company/io/blog/265007/)  
+- [способы оценки качества работы классификаторов](http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html)  
 - []()  
 - []()  
 - []()  
