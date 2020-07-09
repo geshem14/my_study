@@ -66,8 +66,8 @@ ML-3A
 
 ### 5. Классификация  
 ML-3B  
-- []()  
-- []()  
+- [Описание основных методов классификации в крайне доступной форме (подойдет даже тем, у кого нет математического бэкграунда)](https://vas3k.ru/blog/machine_learning/)  
+- [Очень подробное описание метода опорных векторов на Хабре](https://habr.com/ru/post/105220/)  
 - []()  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_4/links_to_resources_on_module_topics.md#Оглавление)  
 
