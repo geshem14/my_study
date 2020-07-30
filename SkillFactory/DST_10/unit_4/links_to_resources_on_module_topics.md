@@ -8,7 +8,8 @@
 [3. Статистика](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Статистика)  
 [4. Регрессия](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Регрессия)  
 [5. Классификация](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Классификация)  
-[6. PYTHON. Классы и ООП](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#PYTHON.-Классы-и-ООП)  
+[6. Валидация данных и оценка модели](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#Валидация-данных-и-оценка-модели)  
+[7. PYTHON. Классы и ООП](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_3/links_to_resources_on_module_topics.md#PYTHON.-Классы-и-ООП)  
 
 
 ### Основы математического анализа  
@@ -72,7 +73,17 @@ ML-3B
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_4/links_to_resources_on_module_topics.md#Оглавление)  
 
 
-### 6. PYTHON. Классы и ООП  
+### 6. Валидация данных и оценка модели  
+ML-7  
+- [формула полного скользящего контроля для метода k ближайших соседней (англ)](https://cms-stage-skillfactory.raccoongang.com/assets/courseware/v1/9e236a458bb74ef3af6c48e67f727812/asset-v1:Skillfactory+MLO-TEST+MAR2020+type@asset+block/icml2000-rahuls.pdf)  
+- [Полный скользящий контроль (complete CV)](http://www.machinelearning.ru/wiki/index.php?title=CV#.D0.9F.D0.BE.D0.BB.D0.BD.D1.8B.D0.B9_.D1.81.D0.BA.D0.BE.D0.BB.D1.8C.D0.B7.D1.8F.D1.89.D0.B8.D0.B9_.D0.BA.D0.BE.D0.BD.D1.82.D1.80.D0.BE.D0.BB.D1.8C_.28complete_CV.29)  
+- []()  
+- []()  
+- []()  
+- []()  
+:arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_4/links_to_resources_on_module_topics.md#Оглавление)  
+
+### 7. PYTHON. Классы и ООП  
 PYTHON-C3  
 - []()  
 - []()  
