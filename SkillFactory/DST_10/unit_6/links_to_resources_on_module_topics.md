@@ -14,9 +14,9 @@
 
 ### Решающие деревья и случайный лес  
 ML-5  
-- []()  
-- []()  
-- []()  
+- [Акинатор - игра, которая отлично иллюстрирует решение задачи классификации через решающие деревья](https://ru.akinator.com/)  
+- [ссылка на документацию классификатора дерева решений DecisionTreeClassifier (англ.)](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html#sklearn.tree.DecisionTreeClassifier)  
+- [ссылка на документацию регрессора дерева решений DecisionTreeRegressor (англ.)](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor)  
 - []()  
 - []()  
 - []()  
