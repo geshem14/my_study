@@ -25,17 +25,7 @@ ML-5
 - [Имплементация деревьев в Scikit-Learn](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/tree/_tree.pxd)  
 - [Материал про ID3 (англ.)](http://www.saedsayad.com/decision_tree.htm)  
 - [Изменение качества случайного леса в зависимости от числа деревьев](http://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html)  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
-- []()  
+- [Изменение качества случайного леса в зависимости от числа деревьев англ.](https://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html)  
 :arrow_up:[к оглавлению](https://github.com/alex-sokolov2011/my_study/blob/master/SkillFactory/DST_10/unit_6/links_to_resources_on_module_topics.md#Оглавление)  
 
 
