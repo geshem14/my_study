@@ -24,7 +24,7 @@ ML-5
 - [Конспект лекции Е. А. Соколова про решающие деревья](https://www.hse.ru/mirror/pubs/share/215285956)  
 - [Имплементация деревьев в Scikit-Learn](https://github.com/scikit-learn/scikit-learn/blob/master/sklearn/tree/_tree.pxd)  
 - [Материал про ID3 (англ.)](http://www.saedsayad.com/decision_tree.htm)  
-- []()  
+- [Изменение качества случайного леса в зависимости от числа деревьев](http://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html)  
 - []()  
 - []()  
 - []()  
