@@ -55,8 +55,8 @@ ML-4
 
 ### Работа с HTML страницами и API  
 PYTHON-B9  
-- []()  
-- []()  
+- [API ВКонтакте](\https://vk.com/editapp?act=create)  
+- [документация метода users.get API ВКонтакте](https://vk.com/dev/users.get)  
 - []()  
 - []()  
 - []()  
