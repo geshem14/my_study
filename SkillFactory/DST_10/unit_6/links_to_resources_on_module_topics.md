@@ -34,7 +34,7 @@ ML-6
 - [В качестве дополнительного материала настоятельно рекомендуем послушать про CatBoost – градиентный бустинг от Яндекса YouTube](https://www.youtube.com/watch?v=UYDwhuyWYSo)  
 - [Ещё один набирающий большую популярность метод — lightGBM. Предлагаем посмотреть лекцию про то, как с его помощью прогнозируют продажи в популярном магазине OZON.](https://www.youtube.com/watch?v=I4Oj17D8m04)  
 - [экстремальные деревья - рандомные решающие деревья. Если есть желание глубже погрузиться в сами алгоритмы, советую посмотреть вот эту статью](https://towardsdatascience.com/an-intuitive-explanation-of-random-forest-and-extra-trees-classifiers-8507ac21d54b)  
-- []()  
+- [Алгоритмы машинного обучения ансамбля в Python с scikit-learn](https://www.machinelearningmastery.ru/ensemble-machine-learning-algorithms-python-scikit-learn/)  
 - []()  
 - []()  
 - []()  
